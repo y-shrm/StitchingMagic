@@ -1,0 +1,33 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\Images\Assesin 18.jpg" />
+    <None Include="wwwroot\Images\book.png" />
+    <None Include="wwwroot\Images\Brief History Of Time.jpg" />
+    <None Include="wwwroot\Images\cotton candy back.jpg" />
+    <None Include="wwwroot\Images\cotton candy.jpg" />
+    <None Include="wwwroot\Images\dark skies back.jpg" />
+    <None Include="wwwroot\Images\dark skies.jpg" />
+    <None Include="wwwroot\Images\fortune of time back.jpg" />
+    <None Include="wwwroot\Images\Lewis Hamilton.jpg" />
+    <None Include="wwwroot\Images\Messi.jpg" />
+    <None Include="wwwroot\Images\Myths And Marvels Of Astronomy.jpg" />
+    <None Include="wwwroot\Images\rock in the ocean back.jpg" />
+    <None Include="wwwroot\Images\Sapiens A Graphic History.jpg" />
+    <None Include="wwwroot\Images\vanish in the sunset.jpg" />
+    <None Include="wwwroot\Images\Why Bharat Matters.jpg" />
+    <None Include="wwwroot\Images\wold in a bottle.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter" Version="8.0.4" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.2" />
+  </ItemGroup>
+
+</Project>

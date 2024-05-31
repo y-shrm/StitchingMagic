@@ -1,1 +1,2 @@
 # StudentManagementProject
+# StitchingMagic

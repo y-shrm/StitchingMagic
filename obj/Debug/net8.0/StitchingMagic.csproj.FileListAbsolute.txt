@@ -236,3 +236,4 @@ C:\Projects\StitchingMagic\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Secur
 C:\Projects\StitchingMagic\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 C:\Projects\StitchingMagic\obj\Debug\net8.0\StitchingMagic.csproj.AssemblyReference.cache
 C:\Projects\StitchingMagic\obj\Debug\net8.0\StitchingMagic.csproj.CopyComplete
+C:\Projects\StitchingMagic\obj\Debug\net8.0\StitchingMagic.sourcelink.json

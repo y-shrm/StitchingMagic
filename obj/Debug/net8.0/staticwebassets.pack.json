@@ -85,12 +85,48 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Projects\\StitchingMagic\\wwwroot\\js\\newFile.js",
+      "PackagePath": "staticwebassets\\js\\newFile.js"
+    },
+    {
       "Id": "C:\\Projects\\StitchingMagic\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
       "Id": "C:\\Projects\\StitchingMagic\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Projects\\StitchingMagic\\wwwroot\\lib\\bootstrap\\dist\\css\\DarkTheme.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\DarkTheme.css"
+    },
+    {
+      "Id": "C:\\Projects\\StitchingMagic\\wwwroot\\lib\\bootstrap\\dist\\css\\DarkTheme.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\DarkTheme.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\StitchingMagic\\wwwroot\\lib\\bootstrap\\dist\\css\\DarkTheme.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\DarkTheme.min.css"
+    },
+    {
+      "Id": "C:\\Projects\\StitchingMagic\\wwwroot\\lib\\bootstrap\\dist\\css\\DarkTheme.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\DarkTheme.min.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\StitchingMagic\\wwwroot\\lib\\bootstrap\\dist\\css\\DarkTheme.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\DarkTheme.rtl.css"
+    },
+    {
+      "Id": "C:\\Projects\\StitchingMagic\\wwwroot\\lib\\bootstrap\\dist\\css\\DarkTheme.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\DarkTheme.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\StitchingMagic\\wwwroot\\lib\\bootstrap\\dist\\css\\DarkTheme.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\DarkTheme.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Projects\\StitchingMagic\\wwwroot\\lib\\bootstrap\\dist\\css\\DarkTheme.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\DarkTheme.rtl.min.css.map"
     },
     {
       "Id": "C:\\Projects\\StitchingMagic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
@@ -219,10 +255,6 @@
     {
       "Id": "C:\\Projects\\StitchingMagic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
-    },
-    {
-      "Id": "C:\\Projects\\StitchingMagic\\wwwroot\\lib\\bootstrap\\dist\\css\\testing.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\testing.css"
     },
     {
       "Id": "C:\\Projects\\StitchingMagic\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
